@@ -1,3 +1,6 @@
 # demo1
 github and description.
-#had
+#push origin main
+#get remote add origin link
+#init (to add repo)
+#hello
